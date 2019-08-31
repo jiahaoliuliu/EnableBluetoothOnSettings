@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EnableBluetoothOnSettings</string>
+    <string name="EnableBluetooth">Enable Bluetooth</string>
+    <string name="DisableBluetooth">Disable Bluetooth</string>
 </resources>
